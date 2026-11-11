@@ -1,0 +1,1 @@
+from .DeT_SCI import DeTSCI, DeTSCIStudent
